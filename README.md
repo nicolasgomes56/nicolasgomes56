@@ -1,4 +1,4 @@
-## Olá me chamo Nicolas Gomes
+## Olá me chamo Nicolas Gomes, Desenvolvedor de software e apaixonado por técnologia
 
 
 - 🔭 Atualmente trabalho com Back-end
