@@ -7,8 +7,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolas-gomes-9681bb153/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolascodes18&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascodes18&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img 
+       height="150em" 
+       src="https://github-readme-stats.vercel.app/api?username=nicolascodes18&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
+       />
+    
+  <img 
+       height="150em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascodes18&layout=compact&langs_count=7&theme=highcontrast"
+       />
 </div>
   
 <div style="display: inline_block" align="center"><br>
