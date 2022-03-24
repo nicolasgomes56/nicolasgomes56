@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com Back-end
-- 🌱 Estudando C# & React
+- 🌱 Estudando NodeJS & React
 - 📫 Contate-me no email: nicolasgomes56@gmail.com
 
 <div align="center">
