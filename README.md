@@ -1,4 +1,4 @@
-### Olá, me chamo Nicolas Gomes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá, me chamo Nicolas Gomes
 
 
 - 🔭 Atualmente trabalho com Back-end
