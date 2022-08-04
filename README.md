@@ -1,8 +1,8 @@
 ### Olá, me chamo Nicolas Gomes
 
 
-- 🔭 Atualmente trabalho com Back-end
-- 🌱 Estudando NodeJS & React
+- 💼 Development Analyst
+-
 - 📫 Contate-me no email: nicolasgomes56@gmail.com
 
 <div align="center">
