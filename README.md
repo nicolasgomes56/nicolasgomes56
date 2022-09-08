@@ -1,7 +1,7 @@
 ### Olá, me chamo Nicolas Gomes
 
 
-- 💼 Development Analyst
+- 💼 Analista de Desenvolvimento
 - 📫 Contate-me no email: nicolasgomes56@gmail.com
 
 <div align="center">
