@@ -2,7 +2,7 @@
 
 
 - 💼 Analista de Desenvolvimento
-- 📫 Contate-me no email: nicolasgomes56@gmail.com
+<!-- - 📫 Contate-me no email: nicolasgomes56@gmail.com -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolas-gomes-9681bb153/">
