@@ -1,4 +1,4 @@
-### Olá, me chamo Nicolas Gomes
+### Olá, me chamo Nicolas
 
 
 - 💼 Analista de Desenvolvimento
