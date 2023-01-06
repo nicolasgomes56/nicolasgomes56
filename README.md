@@ -1,8 +1,9 @@
 ### Olá, me chamo Nicolas 👋
 
 
-- 💼 Analista de Desenvolvimento Junior
-- 📚 Estudando: TypeScript | Node.Js | DevOps | PostgreSQL | MongoDB | Redis
+- 💼 Junior Development Analyst
+- 📚 Software Engineering
+- 💡 .NET | Node.Js | React.Js 
 <!-- - 📫 Contate-me no email: nicolasgomes56@gmail.com -->
 
 <div align="center">
