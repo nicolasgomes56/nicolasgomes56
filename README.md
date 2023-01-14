@@ -3,7 +3,6 @@
 
 - 💼 Junior Development Analyst
 - 📚 Software Engineering
-- 💡 .NET | Node.Js | React.Js 
 <!-- - 📫 Contate-me no email: nicolasgomes56@gmail.com -->
 
 <div align="center">
