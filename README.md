@@ -1,7 +1,7 @@
 ### Olá, me chamo Nicolas 👋
 
 
-- 💼 Junior Development Analyst
+- 💼 Junior Development
 - 📚 Software Engineering
 <!-- - 📫 Contate-me no email: nicolasgomes56@gmail.com -->
 
