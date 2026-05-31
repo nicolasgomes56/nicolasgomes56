@@ -1,15 +1,15 @@
-# 👋 Hi there, I'm Nicolas Gomes!
+# 👋 Olá, eu sou o Nicolas Gomes!
 
-*   🧑‍💻 Software Engineer.
-*   💜 Passionate about technology, leveraging it to solve complex challenges and build impactful projects.
-*   🔎 Always in search of new knowledge and technologies, enhancing my skills daily.
+*   🧑‍💻 Engenheiro de Software.
+*   💜 Apaixonado por tecnologia, utilizando-a para resolver desafios complexos e construir projetos de impacto.
+*   🔎 Sempre em busca de novos conhecimentos e tecnologias, aprimorando minhas habilidades diariamente.
 
 ---
 
-### 🌟 About Me
-Software Engineer with over 4 years of experience driving technological solutions, from technical support to full-stack development and complex system architecture.
+### 🌟 Sobre Mim
+Engenheiro de Software com mais de 4 anos de experiência impulsionando soluções tecnológicas, desde o suporte técnico até o desenvolvimento full-stack e arquitetura de sistemas complexos.
 
-Throughout my journey—spanning from the health sector to security technology—I have specialized in the **.NET ecosystem** and **React**. My focus lies in designing scalable microservices, modernizing legacy systems, and ensuring high-availability platforms through robust practices like DDD, TDD, and Clean Architecture. I am passionate about transforming complex business requirements into high-performance, sustainable, and reliable technical solutions.
+Ao longo da minha trajetória — abrangendo desde o setor de saúde até tecnologia de segurança — especializei-me no **ecossistema .NET** e **React**. Meu foco está no design de microsserviços escaláveis, modernização de sistemas legados e garantia de plataformas de alta disponibilidade através de práticas robustas como DDD, TDD e Clean Architecture. Sou apaixonado por transformar requisitos de negócio complexos em soluções técnicas de alta performance, sustentáveis e confiáveis.
 
 ### 🛠 Tech Stack
 
@@ -21,22 +21,22 @@ Throughout my journey—spanning from the health sector to security technology�
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🚀 Core Expertise
-*   **Backend & Architecture:** .NET / C#, Microsserviços, Clean Architecture, DDD, CQRS, Mensageria (RabbitMQ).
+### 🚀 Principais Especializações
+*   **Backend & Arquitetura:** .NET / C#, Microsserviços, Clean Architecture, DDD, CQRS, Mensageria (RabbitMQ).
 *   **Frontend:** React, TypeScript, desenvolvimento responsivo.
-*   **Database & Integration:** SQL Server, MongoDB, Entity Framework, REST API, SOAP, WebHooks.
-*   **Engineering & Quality:** TDD, Testes Unitários, SOLID, Clean Code.
-*   **Methodologies & DevOps:** Agile/Scrum, Git/Gitflow, CI/CD, Docker.
+*   **Banco de Dados & Integração:** SQL Server, MongoDB, Entity Framework, REST API, SOAP, WebHooks.
+*   **Engenharia & Qualidade:** TDD, Testes Unitários, SOLID, Clean Code.
+*   **Metodologias & DevOps:** Agile/Scrum, Git/Gitflow, CI/CD, Docker.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Atividade no GitHub
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasgomes56&theme=radical" />
 </div>
 
 ---
 
-### 🌐 Let's connect
-📧 **Email:** nicolasgomes56@outlook.com
+### 🌐 Vamos nos conectar
+📧 **Email:** nicolasgomes56@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/nicolasgomes56](https://linkedin.com/in/nicolasgomes56)
