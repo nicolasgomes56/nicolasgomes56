@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou o Nicolas Gomes!
 
-*   🧑‍💻 Engenheiro de Software.
-*   💜 Apaixonado por tecnologia, utilizando-a para resolver desafios complexos e construir projetos de impacto.
-*   🔎 Sempre em busca de novos conhecimentos e tecnologias, aprimorando minhas habilidades diariamente.
+🧑‍💻 **Engenheiro de Software Full Stack | Especialista .NET & React**
+
+Apaixonado por tecnologia, utilizo-a para resolver desafios complexos e construir projetos de alto impacto. Meu foco é entregar valor real desenvolvendo sistemas de ponta a ponta: desde a arquitetura de back-ends robustos e distribuídos até a criação de interfaces modernas e responsivas.
 
 ---
 
 ### 🌟 Sobre Mim
-Engenheiro de Software com mais de 4 anos de experiência impulsionando soluções tecnológicas, desde o suporte técnico até o desenvolvimento full-stack e arquitetura de sistemas complexos.
+Com mais de 4 anos de experiência na área de tecnologia, atuo no desenho e desenvolvimento de soluções críticas, englobando setores como saúde e segurança corporativa. 
 
-Ao longo da minha trajetória — abrangendo desde o setor de saúde até tecnologia de segurança — especializei-me no **ecossistema .NET** e **React**. Meu foco está no design de microsserviços escaláveis, modernização de sistemas legados e garantia de plataformas de alta disponibilidade através de práticas robustas como DDD, TDD e Clean Architecture. Sou apaixonado por transformar requisitos de negócio complexos em soluções técnicas de alta performance, sustentáveis e confiáveis.
+Minha especialidade é a combinação do **ecossistema .NET** com **React/TypeScript**. Tenho forte vivência na modernização de sistemas legados e na construção de plataformas do zero. Mais do que apenas escrever código, meu foco está em **System Design** e na criação de arquiteturas escaláveis e de alta disponibilidade, aplicando rigorosamente práticas como Clean Architecture, DDD, CQRS e TDD para transformar requisitos complexos de negócio em softwares sustentáveis.
 
 ### 🛠 Tech Stack
 
@@ -19,22 +19,21 @@ Ao longo da minha trajetória — abrangendo desde o setor de saúde até tecnol
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 Principais Especializações
-*   **Backend & Arquitetura:** .NET / C#, Microsserviços, Clean Architecture, DDD, CQRS, Mensageria (RabbitMQ).
-*   **Frontend:** React, TypeScript, desenvolvimento responsivo.
-*   **Banco de Dados & Integração:** SQL Server, MongoDB, Entity Framework, REST API, SOAP, WebHooks.
-*   **Engenharia & Qualidade:** TDD, Testes Unitários, SOLID, Clean Code.
-*   **Metodologias & DevOps:** Agile/Scrum, Git/Gitflow, CI/CD, Docker.
+*   **Backend & Arquitetura:** .NET 8 / C#, APIs REST/gRPC, Microsserviços, Clean Architecture, DDD, CQRS, Mensageria (RabbitMQ).
+*   **Frontend Moderno:** React, TypeScript, Tailwind CSS, gerenciamento de estado e interfaces de alta performance.
+*   **Banco de Dados & Dados:** SQL Server, MongoDB, Redis, Entity Framework Core, Dapper.
+*   **Engenharia & Qualidade:** Test-Driven Development (TDD), Testes Unitários, SOLID, Clean Code.
+*   **Infraestrutura & DevOps:** Docker, CI/CD, Observabilidade (OpenTelemetry/Grafana), Git/Gitflow, Metodologias Ágeis.
 
-### 🎯 Foco Arquitetural & Desenvolvimento
-Comprometido com a excelência técnica e com a evolução contínua em sistemas de alta complexidade. Atualmente, meu foco de aprendizado e aprofundamento está em:
-
-*   **Design & Padrões:** Aprofundamento em padrões de projeto estruturais e comportamentais para criar sistemas mais resilientes e de fácil manutenção.
-*   **Engenharia de Dados:** Especialização em modelagem e otimização avançada de bancos de dados para cenários de alta carga.
-*   **Arquitetura Distribuída:** Evolução no design de microsserviços, mensageria e resiliência, garantindo escalabilidade e robustez.
-*   **Infraestrutura & DevOps:** Consolidação de práticas de CI/CD e Cloud, visando automação e confiabilidade em ambientes de produção.
+### 🎯 Foco Arquitetural & Evolução Contínua
+Comprometido com a excelência técnica e com o desenvolvimento de sistemas de alta complexidade. Atualmente, meu aprofundamento foca em:
+*   **System Design:** Desenho de soluções distribuídas, orquestração/coreografia de microsserviços e resiliência de software.
+*   **Engenharia de Dados & Concorrência:** Otimização avançada de bancos de dados para cenários de alta carga e domínio do assincronismo real.
+*   **Integração e Autonomia:** Capacidade de entregar *features* completas (Back + Front) com alta qualidade e independência técnica.
 
 ---
 
@@ -48,5 +47,5 @@ Comprometido com a excelência técnica e com a evolução contínua em sistemas
 ---
 
 ### 🌐 Vamos nos conectar
-📧 **Email:** nicolasgomes56@gmail.com
+📧 **Email:** nicolasgomes56@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/nicolasgomes56](https://linkedin.com/in/nicolasgomes56)
