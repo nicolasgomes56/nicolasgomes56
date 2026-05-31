@@ -27,10 +27,8 @@ With over 4 years of experience, I specialize in the **.NET ecosystem** and **Re
 ---
 
 ### 📊 GitHub Activity
-*(Generated daily via GitHub Actions)*
-
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="profile-3d-contrib/profile-night-view.svg" />
 </div>
 
 ---
