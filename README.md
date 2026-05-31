@@ -28,6 +28,14 @@ Ao longo da minha trajetória — abrangendo desde o setor de saúde até tecnol
 *   **Engenharia & Qualidade:** TDD, Testes Unitários, SOLID, Clean Code.
 *   **Metodologias & DevOps:** Agile/Scrum, Git/Gitflow, CI/CD, Docker.
 
+### 🎯 Foco Arquitetural & Desenvolvimento
+Comprometido com a excelência técnica e com a evolução contínua em sistemas de alta complexidade. Atualmente, meu foco de aprendizado e aprofundamento está em:
+
+*   **Design & Padrões:** Aprofundamento em padrões de projeto estruturais e comportamentais para criar sistemas mais resilientes e de fácil manutenção.
+*   **Engenharia de Dados:** Especialização em modelagem e otimização avançada de bancos de dados para cenários de alta carga.
+*   **Arquitetura Distribuída:** Evolução no design de microsserviços, mensageria e resiliência, garantindo escalabilidade e robustez.
+*   **Infraestrutura & DevOps:** Consolidação de práticas de CI/CD e Cloud, visando automação e confiabilidade em ambientes de produção.
+
 ---
 
 ### 📊 Atividade no GitHub
