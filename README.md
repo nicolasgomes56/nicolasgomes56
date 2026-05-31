@@ -32,7 +32,9 @@ Ao longo da minha trajetória — abrangendo desde o setor de saúde até tecnol
 
 ### 📊 Atividade no GitHub
 <div align="center">
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=nicolasgomes56&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasgomes56&theme=radical" />
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=nicolasgomes56&layout=compact&theme=radical&locale=pt-br" />
 </div>
 
 ---
