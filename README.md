@@ -23,7 +23,7 @@ Minha especialidade é a combinação do **ecossistema .NET** com **React/TypeSc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 Principais Especializações
-*   **Backend & Arquitetura:** .NET 8 / C#, APIs REST/gRPC, Microsserviços, Clean Architecture, DDD, CQRS, Mensageria (RabbitMQ).
+*   **Backend & Arquitetura:** .NET / C#, APIs REST/gRPC, Microsserviços, Clean Architecture, DDD, CQRS, Mensageria (RabbitMQ).
 *   **Frontend Moderno:** React, TypeScript, Tailwind CSS, gerenciamento de estado e interfaces de alta performance.
 *   **Banco de Dados & Dados:** SQL Server, MongoDB, Redis, Entity Framework Core, Dapper.
 *   **Engenharia & Qualidade:** Test-Driven Development (TDD), Testes Unitários, SOLID, Clean Code.
