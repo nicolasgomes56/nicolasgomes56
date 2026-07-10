@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nicolas Gomes!
 
-🧑‍💻 **Engenheiro de Software Full Stack | Especialista .NET & React**
+🧑‍💻 **Engenheiro de Software Full Stack**
 
 Apaixonado por tecnologia, utilizo-a para resolver desafios complexos e construir projetos de alto impacto. Meu foco é entregar valor real desenvolvendo sistemas de ponta a ponta: desde a arquitetura de back-ends robustos e distribuídos até a criação de interfaces modernas e responsivas.
 
