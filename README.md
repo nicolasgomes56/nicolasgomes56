@@ -37,15 +37,15 @@ Comprometido com a excelência técnica e com o desenvolvimento de sistemas de a
 
 ---
 
+### 🌐 Vamos nos conectar
+📧 **Email:** nicolasgomes56@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/nicolasgomes56](https://linkedin.com/in/nicolasgomes56)
+
+---
+
 ### 📊 Atividade no GitHub
 <div align="center">
   <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=nicolasgomes56&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasgomes56&theme=radical" />
   <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=nicolasgomes56&layout=compact&theme=radical&locale=pt-br" />
 </div>
-
----
-
-### 🌐 Vamos nos conectar
-📧 **Email:** nicolasgomes56@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nicolasgomes56](https://linkedin.com/in/nicolasgomes56)
